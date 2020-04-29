@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ViewPager 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delivered_orders">Delivered Orders</string>
+    <string name="confirmed_orders">Confirmed Orders</string>
+    <string name="Pending_orders">Pending Orders</string>
+</resources>
